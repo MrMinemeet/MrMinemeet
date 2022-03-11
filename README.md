@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrMinemeet
+- 👋 Hi, I’m @MrMinemeet or also known as Alex
 - 👀 I’m interested in gaming, computers, cooking and some other stuff
 - 🌱 I’m currently studying computer science @JKU
 - 📫 How to reach me ...
