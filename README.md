@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming, computers, cooking and some other stuff
 - 🌱 I’m currently studying computer science @JKU
 - 📫 How to reach me ...
-Use the email on my github profile or message me on Twitter
+Use the email on my github profile or check out my webside for more information
 
 <!---
 MrMinemeet/MrMinemeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
