@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MrMinemeet or also known as Alex
 - 👀 I’m interested in gaming, computers, cooking and some other stuff
 - 🌱 I’m currently studying computer science @JKU
-- 📫 How to reach me ...
-Use the email on my github profile or check out my webside for more information
+- 📫 You can reach me via e-mail on my github profile or check out my webside for more information.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2HGYI2)
 
