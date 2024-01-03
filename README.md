@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Software Engineering @JKU
 - 📫 You can reach me via e-mail on my github profile or check out my webside for more information.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2HGYI2)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mrminemeet)
 
 <!---
 MrMinemeet/MrMinemeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
