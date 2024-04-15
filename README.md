@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrMinemeet or also known as Alex
 - 👀 I’m interested in gaming, computers, cooking and some other stuff
-- 🌱 I’m currently studying Software Engineering @JKU
+- 🌱 I’m currently studying for my Master's in Software Engineering [@JKU](https://www.jku.at/)
 - 📫 You can reach me via e-mail on my github profile or check out my webside for more information.
 
 # Github Stats
