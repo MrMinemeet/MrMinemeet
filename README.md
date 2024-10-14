@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex or also known as MrMinemeet
-- 🧑🏻‍🎓 I’m interested in strategy games, computers, cooking and a bunch other stuff
-- 👨🏻‍💻 I’m currently studying for my Master's in Software Engineering [@JKU](https://www.jku.at/)
+- ✨ I’m interested in strategy games, computers, cooking and a bunch other stuff
+- 👨‍🎓 I’m currently studying for my Master's in Software Engineering [@JKU](https://www.jku.at/)
 - 👨‍💻 Next to university I work as a Software Engineer [@Dynatrace](https://www.dynatrace.com/)
 - 🌐 You can reach me via the e-mail on my github profile or check out my website at [wtf-my-code.works](https://wtf-my-code.works) for more information
 
