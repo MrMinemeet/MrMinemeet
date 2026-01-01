@@ -1,7 +1,7 @@
 ### 👋 Hello there, I'm Alex (aka MrMinemeet)
 
 - 👨‍💻 I'm a full-time Software Engineer at [Dynatrace](https://www.dynatrace.com/), where I work on the OneAgent.
-- 🎓 I completed my Master of Science in Computer Science with a specialization in Software Engineering at [JKU](https://www.jku.at/). My Master's thesis on "[A Generic Machine Code Library](https://ssw.jku.at/Teaching/MasterTheses/Voglsperger/Aufgabenstellung.pdf)" was done at the [Institute for System Software](https://ssw.jku.at/) in cooperation with Dynatrace
+- 🎓 I completed my Master of Science in Computer Science with a specialization in Software Engineering at [JKU](https://www.jku.at/). My Master's thesis on "[A Generic Machine Code Library](https://epub.jku.at/obvulihs/content/titleinfo/12074964)" was done at the [Institute for System Software](https://ssw.jku.at/) in cooperation with Dynatrace
 - ✨ Outside of my professional work, I enjoy a good strategy game, cooking up new recipes, and exploring all things tech.
 - 🌐 Interested in connecting? You can find me on my website [wtf-my-code.works](https://wtf-my-code.works) or reach out via the email on my GitHub profile.
 
