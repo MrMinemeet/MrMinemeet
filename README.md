@@ -2,8 +2,8 @@
 
 - 👨‍💻 I'm a full-time Software Engineer at [Dynatrace](https://www.dynatrace.com/), where I work on the OneAgent for Node.js.
 - 🎓 I completed my Master of Science in Computer Science with a specialization in Software Engineering at [JKU](https://www.jku.at/). My Master's thesis on "[A Generic Machine Code Library](https://epub.jku.at/obvulihs/content/titleinfo/12074964)" was done at the [Institute for System Software](https://ssw.jku.at/) in cooperation with Dynatrace
-- ✨ Outside of my professional work, I enjoy a good strategy game, cooking up new recipes, and exploring all things tech. Furthermore, I am a co-organizer for the [Technologieplauscherl](https://technologieplauscherl.at/) 📢
-- 🌐 Interested in connecting? You can find me on my website [wtf-my-code.works](https://wtf-my-code.works) or reach out via the email on my GitHub profile.
+- ✨ Outside of my professional work, I enjoy a good strategy game, cooking up new recipes, and exploring all things tech. Furthermore, I am a co-organizer for the [<img src="https://technologieplauscherl.at/img/icons/favicon-32x32.png" alt="Technologieplauscherl Logo" height="20"/> Technologieplauscherl](https://technologieplauscherl.at/)
+- 🌐 Interested in connecting? You can find more on my website [wtf-my-code.works](https://wtf-my-code.works) or reach out via the email on my GitHub profile.
 
 # Github Stats
 <a href="https://github.com/MrMinemeet?tab=repositories">
