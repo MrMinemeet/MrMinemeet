@@ -9,11 +9,11 @@
 <a href="https://github.com/MrMinemeet?tab=repositories">
   <picture>
     <source
-      srcset="https://ghstats.wtf-my-code.works/api?username=mrminemeet&show_icons=true&theme=dark&hide_rank=true"
+      srcset="https://github-stats-extended.vercel.app/api?username=mrminemeet&show_icons=true&theme=dark&hide_rank=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://ghstats.wtf-my-code.works/api?username=mrminemeet&show_icons=true&hide_rank=true"
+      srcset="https://github-stats-extended.vercel.app/api?username=mrminemeet&show_icons=true&hide_rank=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height="200" alt="MrMinemeet's GitHub stats" />
@@ -22,11 +22,11 @@
 <a href="https://github.com/MrMinemeet?tab=repositories">
   <picture>
     <source
-      srcset="https://ghstats.wtf-my-code.works/api/top-langs/?username=mrminemeet&layout=compact&exclude_repo=BugHunter&langs_count=10&hide=tex,shaderlab,plsql,dart,objective-c,cmake,hlsl,asp.net,vue&theme=dark"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mrminemeet&layout=compact&exclude_repo=BugHunter&theme=dark&langs_count=10&hide=tex,shaderlab,plsql,dart,objective-c,cmake,hlsl,asp.net,vue"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://ghstats.wtf-my-code.works/api/top-langs/?username=mrminemeet&layout=compact&exclude_repo=BugHunter&langs_count=10&hide=tex,shaderlab,plsql,dart,objective-c,cmake,hlsl,asp.net,vue"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mrminemeet&layout=compact&exclude_repo=BugHunter&langs_count=10&hide=tex,shaderlab,plsql,dart,objective-c,cmake,hlsl,asp.net,vue"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height="200" alt="Top Languages" />
